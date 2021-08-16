@@ -19,8 +19,8 @@ hasn't been met will be discussed within the evaluation section of the dissertat
 
 ## Authors
 
-ex. Michael Strong
-ex. (strongmk@sky.com)
+Michael Strong
+(strongmk@sky.com)
 
 
 ## License
